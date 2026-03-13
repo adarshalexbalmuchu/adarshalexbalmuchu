@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Business-minded+builder+with+a+creative+edge;Management+Student+at+IIM+Ranchi;Marketing+%7C+Analytics+%7C+Research+%7C+Digital+Projects;Turning+ideas+into+polished+and+impactful+execution" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1000&color=22D3EE&center=true&vCenter=true&width=1000&lines=Building+with+strategy%2C+creativity%2C+and+execution;Management+Student+at+IIM+Ranchi;Marketing+%7C+Analytics+%7C+Research+%7C+Digital+Projects;Turning+ideas+into+polished+and+impactful+work" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,13 +29,24 @@
 
 ---
 
-<h2 align="center">⚡ DIGITAL IDENTITY</h2>
+<h2 align="center">⚡ FIRST IMPRESSION</h2>
+
+<p align="center">
+  🎯 <b>Management student at IIM Ranchi</b> building across <b>strategy, analytics, branding, and digital products</b><br>
+  🏆 National-level competition <b>winner, runner-up, and finalist</b> across marketing, finance, and problem-solving<br>
+  🌐 Building real projects in <b>web, research, social impact, AI workflows, and digital experiences</b><br>
+  🎨 Strong blend of <b>business thinking, visual storytelling, and execution</b>
+</p>
+
+---
+
+<h2 align="center">🧠 DIGITAL IDENTITY</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 About
+### About Me
 ```yaml
 name: Adarsh Alex Balmuchu
 role: Management Student @ IIM Ranchi
@@ -44,7 +55,7 @@ identity:
   - Creativity-backed
   - Analytics-oriented
   - Execution-focused
-core_interests:
+interests:
   - Marketing Strategy
   - Digital Storytelling
   - Analytics & Research
